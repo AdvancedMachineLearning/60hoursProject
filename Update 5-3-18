@@ -1,0 +1,5 @@
+New title should be made, e.g. "automatic micro investments using contrarian apprach"
+
+Use social media data crawling (natural languages) through e.g twitter to find negativity in market, see effects emotion has on company and if it has reduced share prices to less than its true value.
+Use ensemble methods to create time series predictions then create a probability distribution.
+Use monte carlo simulation to explore investment strategy. 
