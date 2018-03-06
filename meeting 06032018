@@ -1,0 +1,17 @@
+article on contrarian investment https://www.aaii.com/journal/article/screening-for-stocks-using-the-contrarian-investment-strategy
+
+Time series prediction for stock:
+- use on undervalued stocks, predict time to invest (filtered by article above)
+- use different ML models/esemble methods to predict stock
+- weighted sum to find probability distribution on prediction
+- use Monte Carlo method on that probability distribution
+- take financial data from Quandl
+
+
+Data crawling/ NLP with Twitter:
+find negative comments on specific companies/markets
+- eToro for social side of things?
+
+
+
+
